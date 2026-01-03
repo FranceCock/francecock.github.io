@@ -31,7 +31,7 @@ html,body{height:100%;margin:10;background:var(--bg);color:var(--text);-webkit-f
 /* Grid / Cards */
 .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--gap)}
 .item, .project-card{display:block;text-decoration:none;color:inherit;border-radius:12px;overflow:hidden;background:var(--surface);box-shadow:0 8px 24px rgba(15,23,42,0.06)}
-.item img, .project-card img{width:100%;height:180px;object-fit:cover;display:block}
+.item img, .project-card img{width:100%;height:1000px;object-fit:cover;display:block}
 .meta, .card-meta{padding:12px;display:flex;flex-direction:column;gap:4px}
 .meta span, .card-meta span{color:var(--muted);font-size:0.9rem}
 
