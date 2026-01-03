@@ -1,0 +1,27 @@
+<! doctype .html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+   <title> apropos </title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+  <main>
+     <section id="about" class="container content">
+      <h3>apropos</h3>
+      <p>Principalement une prétention d'autonomie
+  </p>
+  </section>
+
+    <section id="contact" class="container content">
+      <p>augmentation.france.c[at]gmail.com</p>
+    </section>
+  </main>
+    <footer class="site-footer">
+    <div class="container"><p>© <span id="year"></span> Où s'arrête l'éphèbe ?</p></div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
