@@ -43,7 +43,7 @@ html,body{height:100%;margin:10;background:var(--bg);color:var(--text);-webkit-f
 
 /* Gallery thumbnails */
 .gallery{display:flex;gap:10px;flex-wrap:wrap;margin-top:2px}
-.gallery img{width:120px;height:80px;object-fit:cover;border-radius:6px;cursor:pointer}
+.gallery img{width:1000px;height:8000px;object-fit:cover;border-radius:6px;cursor:pointer}
 
 /* Modal */
 .modal{position:fixed;inset:0;display:none;align-items:center;justify-content:center;background:rgba(0,0,0,0.6)}
